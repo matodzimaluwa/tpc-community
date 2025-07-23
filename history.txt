@@ -1,0 +1,114 @@
+ history
+    1  node -v
+    2  mkdir hello-world
+    3  cd hello-world
+    4  touch index.js
+    5  echo 'console.log("hellow world")
+    6  git init
+    7  echo 'console.log("hellow world");' > index.js
+    8  git init
+    9  git add
+   10  git add .
+   11  git commit -m"add hellow.js with hellow world"
+   12  git remote add origin https://github.com/matodzimaluwa/hello-world.git
+   13  git push origin master
+   14  https://github.com/matodzimaluwa/task-1-prac.git~
+   15  cd
+   16  ```bash
+   17  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   18  cd task-1-prac
+   19  cd shell_architecture_hands_on.md
+   20  cd ~in
+   21  git pull origin main
+   22  cd in  https://github.com/matodzimaluwa/task-1-prac.git
+   23  cd
+   24  git pull main origin
+   25  cd shell_architecture_hands_on.md
+   26  code .
+   27  cd
+   28  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   29  cd task-1-prac
+   30  git pull origin main
+   31  cd shell_architecture_hands_on.md
+   32  cd ~
+   33  cd Desktop
+   34  cd
+   35  ls
+   36  cd task-1-prac
+   37  lsd
+   38  c
+   39  cd task-1-prac
+   40  cd desktop
+   41  cd task-1-prac
+   42  git clone https://github.com/londeka-z/task-1-prac.git
+   43  code .
+   44  echo "The shell is my translator to the OS"
+   45  Run the following commands:
+   46  pwd
+   47  ls
+   48  mkdir Documents
+   49  cd Documents
+   50  cd ..
+   51  nano shell_intro.sh
+   52  chmod +x shell_intro.sh
+   53  ./shell_intro.sh
+   54  touch reflection.txt
+   55  histoy
+   56  history
+   57  touch output.txt
+   58  git add .
+   59  git commit -m " completed shell architecture hands-on tasks"
+   60  git push
+   61  git pull origin main
+   62  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   63  git remote - v
+   64  git remote -v
+   65  git add .
+   66  git commit -m "complted shell architecture hands-on tasks"
+   67  git push
+   68  cd
+   69  git clone https://github.com/matodzimaluwa/task-1-prac.git
+   70  cd task-1-prac
+   71  code .
+   72  git remote -v
+   73  code .
+   74  git init
+   75  git add .
+   76  git commit -m "fIRST COMMIT"
+   77  git push origin main
+   78  git pull orgin mainn
+   79  git pull orgin main
+   80  git pull origin main
+   81  mkdir Tpc community
+   82  rm Tpc community
+   83  rm  -r Tpc community
+   84  mkdir Tpc_Community
+   85  cd Tpc_Community
+   86  nano deploy.sh
+   87  touch Style_guide.txt
+   88  code .
+   89  code .
+   90  chmod +x deploy.sh
+   91  git init
+   92  git add .
+   93  git commit -m "i thought everything it si going to be easy"
+   94  git commit -m "but i know i will get there"
+   95  ls -R
+   96  git commit -m "this is bash"
+   97  ls
+   98  git log
+   99  git commit -m "demostrating basic terminal skills and github collaboration"
+  100  git commit -m" initializing git and making three or more comments"
+  101  git log
+  102  git log
+  103  tree
+  104  ls -R
+  105  git clone https://github.com/matodzimaluwa/tpc-community.git
+  106  ls -R
+  107  git push
+  108  histoty
+  109  touch history.txt
+  110  history
+  111  cd tpc-community
+  112  history
+
